@@ -1,5 +1,5 @@
 # Manus Desktop
-Manus is a minimal AI assistant you can run as a native desktop app pretty easily
+Manus is a powerful AI agent you can set up as a native desktop app pretty easily
 
 ![image](https://github.com/user-attachments/assets/eb0c47ba-5e98-421d-9b96-0090fb938506)
 
