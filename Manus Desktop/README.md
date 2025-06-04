@@ -1,1 +1,1 @@
-See release: https://github.com/Sigil-Wen/Manus-MacOS/releases/download/Manus/Manus.Desktop.zip
+See master README
